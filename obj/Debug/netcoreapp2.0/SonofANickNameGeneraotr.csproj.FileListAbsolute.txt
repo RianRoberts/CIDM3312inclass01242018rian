@@ -1,0 +1,10 @@
+C:\CIDM3312\SonofANickNameGeneraotr\bin\Debug\netcoreapp2.0\SonofANickNameGeneraotr.deps.json
+C:\CIDM3312\SonofANickNameGeneraotr\bin\Debug\netcoreapp2.0\SonofANickNameGeneraotr.runtimeconfig.json
+C:\CIDM3312\SonofANickNameGeneraotr\bin\Debug\netcoreapp2.0\SonofANickNameGeneraotr.runtimeconfig.dev.json
+C:\CIDM3312\SonofANickNameGeneraotr\bin\Debug\netcoreapp2.0\SonofANickNameGeneraotr.dll
+C:\CIDM3312\SonofANickNameGeneraotr\bin\Debug\netcoreapp2.0\SonofANickNameGeneraotr.pdb
+C:\CIDM3312\SonofANickNameGeneraotr\obj\Debug\netcoreapp2.0\SonofANickNameGeneraotr.csproj.CoreCompileInputs.cache
+C:\CIDM3312\SonofANickNameGeneraotr\obj\Debug\netcoreapp2.0\SonofANickNameGeneraotr.AssemblyInfoInputs.cache
+C:\CIDM3312\SonofANickNameGeneraotr\obj\Debug\netcoreapp2.0\SonofANickNameGeneraotr.AssemblyInfo.cs
+C:\CIDM3312\SonofANickNameGeneraotr\obj\Debug\netcoreapp2.0\SonofANickNameGeneraotr.dll
+C:\CIDM3312\SonofANickNameGeneraotr\obj\Debug\netcoreapp2.0\SonofANickNameGeneraotr.pdb
